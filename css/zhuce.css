@@ -14,9 +14,7 @@
 .desc{
 	/* ①尺寸，和大体位置 */
 	width: 400px;height: 700px;
-	margin-top:50px;
-	float: right;
-	margin-right: 10px;
+	margin: 100px auto;
 	/* ②背景和边框 */
 	background-color: rgba(0,0,0,.3);
 	/* ③文本样式 */
