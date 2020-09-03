@@ -1,0 +1,16 @@
+.text_zi{
+	font: 30px "楷体";
+}
+.img-r{
+	width: 1100px;
+	height: 505px;
+}
+body{
+	background: url(../img/guanyuwo/背景图2.jpg);
+}
+.my_img:hover{
+	transform: scale(1.1);
+}
+.my_img{
+	transition: transform 2s;
+}

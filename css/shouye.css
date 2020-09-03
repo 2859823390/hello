@@ -1,0 +1,60 @@
+.top_back{
+	background-color: #AAAAAA;
+	color: #fff;
+	margin: 0 auto;
+}
+.top_back2{
+	width: 100%;
+}
+.right_fu{
+	float: right;
+}
+.my_input{
+	width: 300px;height: 42px;
+	border-color: #ffd700;
+}
+.my_input:focus{
+	box-shadow: none;
+	border-color: #ffd700;
+}
+.font_small{font-size: 0.8rem;}
+.sou_small{
+	height: 42px;
+	background-color: #ooaeef;
+}
+.bor_text{
+	background-color: #FFD700;
+	color: #FFf;
+	width: 90px;height: 42px;
+	border: 1px solid #FFD700;
+	padding-top: 6px;
+}
+.bor_text1{
+	background-color: #FFD700;
+	color: #FFf;
+	width: 42px;height: 42px;
+	border: 1px solid #FFD700;
+	padding-top: 6px;
+}
+.color_q1{color: #fff;}
+.xuanting:hover{
+	background-color: #FFD700;
+	color: #f00;
+}
+.dibu{
+	background-color: #000000;
+	margin-top: 10px;	
+}
+.xuanting1:hover{
+	color: #FFD700;
+}
+.daxiao{
+	margin-left: 75px;
+	width: 430px;height: 430px;
+}
+.font_text{
+	font: 30px "华文新魏";
+	color: #f00;
+	text-align: center;
+	
+}

@@ -1,0 +1,46 @@
+.top_height{
+	height: 377px;
+	}
+.bottom_height{height: 233px;background: #e8e8e8;}
+.text_small{font-size: 0.8rem;}
+.my_img1,.my_img2,.my_img3,.my_img5,.my_img4{
+	float: right;				
+	transition:transform 1s;
+}
+.my_img1{
+	margin-top: -260px;					
+}
+.my_img2{
+	margin-top: -260px;
+	margin-right: 5px;				
+}
+.my_img3{
+	margin-top: -335px;			
+}
+.my_img4{
+	margin-top: -272px;
+	margin-right: 5px;				
+}
+.my_img5{
+	margin-top: -272px;				
+}
+/*.my_img4,.my_img5,.my_img6{
+	padding-top: 5px;
+	padding-left: 10px;		
+}*/
+.my_img1:hover{transform: scale(1.1);}				
+.my_img2:hover{transform: scale(1.1);}
+.my_img3:hover{transform: scale(1.1);}
+.my_img4:hover{transform: scale(1.1);}
+.my_img5:hover{transform: scale(1.1);}
+.my_img6:hover{transform: scale(1.1);}
+@media (min-width:992px) and (max-width:1199.99px) {
+	.my_img1{margin-top: -250px;}
+}
+/*font-weight-normal 去加粗
+text-muted 字体颜色淡化
+flex-column 主轴设置弹性*/
+.beijing{
+	margin-top: -260px;
+	padding-left: 5px;
+}

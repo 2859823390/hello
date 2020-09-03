@@ -1,0 +1,68 @@
+.my_text:focus{
+	box-sizing: 0px 0px 0px #000;
+	font-size: 0.8rem;
+}
+.my_img1{
+	float: right;
+	transition: transform 1s;
+	margin-top: 60px;
+	margin-right: 70px;
+	width: 500px;height: 600px;
+}
+.my_img2{
+	float: right;
+	transition: transform 1s;
+	margin-top: 60px;
+	margin-right: 70px;	
+	width: 950px;height: 500px;
+}
+.my_img1:hover{transform: scale(1.1);}
+.my_img2:hover{transform: scale(1.1);}
+.text_font{
+	font: 70px "华文琥珀";
+	margin-top: 140px;
+	margin-left: 30px;				
+}
+.text_file{
+	font: 70px "华文琥珀";
+	margin-top: 10px;
+	margin-left: 30px;				
+}
+p{font: 50px "楷体";float: right;}
+button{
+	font: 50px "楷体";	
+}
+.font_small{font-size: 0.8rem;}
+.my_input{
+	border-color: #000;
+	width: 100px;height: 50px;
+	}
+.my_input:focus{
+	box-shadow: none;
+	border-color: #000;
+}
+.font_small{
+	font: 20px "华文新魏";
+	/* background-color:#E8E8E8 ; */
+}
+.font_hert{
+	margin-left: 77px;
+}
+.text_pio{
+	margin-top: 35px;
+}
+.font_hear{
+	font: 27px "华文新魏";
+	margin-top: 35px;
+}
+/* .back1{
+	padding: 0;
+	margin: 0;
+	background: url(../img/header/背景.jpeg) ;
+	background-size: 100% 100%;
+	
+} */
+body{
+	background-color: #fff8dc;
+}
+

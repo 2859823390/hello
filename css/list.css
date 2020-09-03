@@ -1,0 +1,55 @@
+.bg_gray{background-color: #e8e8e8;}
+.my_text_1{
+	width: 10%;
+	border:0;outline: 0;
+	text-align: center;
+	font-size: 0.8rem;
+}
+.my_btn_1{
+	width: 1.2rem;height: 1.2rem;
+	border:0;outline: 0;
+	background-color: #ccc;
+	color:#fff;
+	line-height: 1.2rem;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.my_btn_1:focus{outline: 0;}
+.my_btn_1:hover{background-color: #aaa;}
+
+.pagination>.page-item>.page-link{
+	border-radius: 0.2rem;
+	padding:0.3rem 0.6rem;
+	font-size:0.8rem;
+	background-color: transparent;
+	border-color: #ccc;
+	color:#0AA1ED;
+}
+.pagination>.page-item.active>.page-link{
+	background-color: #0AA1ED;
+	color:#fff;
+}
+.pagination>.page-item.disabled>.page-link{
+	color:#ccc;
+}
+.pagination>.page-item>.page-link:hover{
+	border-color: #0aa1ed;
+}
+.pagination>.page-item+.page-item{
+	margin-left: .25em;
+}
+
+.border-top{
+	border-top: 1px dashed #999 !important;
+}
+.my_btn_2{
+	width: 1rem;height: 1rem;
+	border:0;outline: 0;
+	background-color: #ccc;
+	color:#fff;
+	line-height: 0.9rem;
+	font-weight: bolder;
+	cursor: pointer;
+}
+.my_btn_2:focus{outline: 0;}
+.w-40{width: 40%;}
